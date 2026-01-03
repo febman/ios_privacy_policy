@@ -23,7 +23,7 @@ No third parties will see or have access to information obtained through the App
  
 
 ## What are my opt-out rights?
-You can stop all collection of information by the Application easily by uninstalling the Application. 
+You can easily by uninstalling the Application. 
 
 
 ## Children
@@ -31,17 +31,12 @@ We do not use the Application to knowingly solicit data from or market to childr
 
  
 ## Security
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+No information will be collected throught this App. 
 
  
 
 ## Changes
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
- 
-
-## Your Consent
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards.
 
  
 
